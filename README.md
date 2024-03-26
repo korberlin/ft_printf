@@ -1,6 +1,6 @@
 # ft_printf
 
-![ft_printf Logo](png/printf.png)
+<img src="png/printf.png" alt="ft_printf Logo" width="100" height="100">
 
 Hey there! Welcome to my ft_printf project! 🚀 As a student at 42 Berlin, I embarked on the challenge of recreating the `printf` function from scratch. This project is not just about mimicking a function; it's about understanding variadic functions and format specifiers, essential skills for any C programmer.
 
